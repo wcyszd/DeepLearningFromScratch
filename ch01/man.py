@@ -1,4 +1,4 @@
-# coding: utf-8
+ # coding: utf-8
 class Man:
     """示例类"""   # 示例类
 
